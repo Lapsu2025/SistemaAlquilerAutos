@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GestionAlquileres.Backend/GestionAlquileres.Backend.csproj" Id="28a042be-a9fe-48a6-ae38-bbf290d13b91" />
+  <Project Path="GestionAlquileres.UI/GestionAlquileres.UI.csproj" Id="2b6b2501-8771-4988-9e95-173a65d306b6" />
+</Solution>
